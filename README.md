@@ -20,6 +20,7 @@ I am a passionate Junior Data Engineer focused on building robust, scalable, and
 - Apache Spark
 
 **Databases**
+- MySQL
 - PostgreSQL (in progress)
 
 **Data & Cloud Tools**
