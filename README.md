@@ -29,6 +29,9 @@ I am a passionate Junior Data Engineer focused on building robust, scalable, and
 - Airflow (learning)
 - Kafka (learning)
 ---
+**Visualization & BI**
+- Power BI (data modeling, dashboard development)
+- Draw.io
 ## 📈 Currently Focused On
 
 - Building production-style data projects
